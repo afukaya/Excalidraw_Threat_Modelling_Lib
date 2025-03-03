@@ -1,2 +1,3 @@
-# Excalidraw_Threat_Modelling_Lib
-Threat Modelling Library for Excalidraw
+# Excalidraw - Threat Modelling Library
+
+This is a library for threat modelling in Excalidraw.
